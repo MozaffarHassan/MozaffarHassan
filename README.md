@@ -66,9 +66,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sakibzisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibzisan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakib-haque-zisan-818a96194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-haque-zisan-818a96194" height="30" width="40" /></a>
-<a href="https://fb.com/sakibhaquezisan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhaquezisan.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the tech-cher bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the tech-cher bd" height="30" width="40" /></a>
+<a href="https://x.com/MozaffarHassan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="MozaffarHassan2" height="30" width="40" /></a>
+<a href="https://fb.com/mozaffar.hassan33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozaffar.hassan33" height="30" width="40" /></a>
 </p>
 
