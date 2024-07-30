@@ -6,22 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozaffarHassan" alt="MozaffarHassan" /></a> </p>
 
 - 🌱 I’m currently learning on **Cybersecurity and try to develop thyself.**
-- 👯 I’m looking to collaborate with **Industry Experts.**
+- 👯 I’m looking to collaborate with **Industry Professionals.**
 - 🤔 I’m looking for cooperation from **Cybersecurity Experts.**
 - 📝 I regularly write articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
 - 📫 How to reach me: pentester.mozaffar@gmail.com
 
 
-[Brief Introduction - Remove this afterwards]
-
-
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Driven by a passion for protecting digital assets, I aim to build a career in cybersecurity with a focus on ethical hacking and vulnerability assessment. My goal is to develop robust security solutions and collaborate with industry professionals to safeguard organizations from emerging cyber threats, making a significant impact in the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
