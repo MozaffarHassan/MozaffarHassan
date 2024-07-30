@@ -48,7 +48,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 
 <div>
 <img src="https://img.shields.io/badge/-SOC-1d69c4?&style=for-the-badge&logo=logoColor=white" />
-<img src="https://img.shields.io/badge/-EHP-red?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-EHP-red?&style=for-the-badge&logo=logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
