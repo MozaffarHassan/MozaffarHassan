@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [Brief Introduction - Remove this afterwards]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
+
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
