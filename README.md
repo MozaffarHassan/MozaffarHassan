@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozaffarHassan" alt="MozaffarHassan" /></a> </p>
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning **Cybersecurity and try to develop thyself.**
 - 👯 I’m **hunting Bugs and Professional Penetration Tester.**
 - 👯 I’m looking to collaborate with **Industry Experts.**
