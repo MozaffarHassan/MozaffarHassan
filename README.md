@@ -12,8 +12,8 @@
 - 📫 How to reach me: pentester.mozaffar@gmail.com
 - 👕 Promote cybersecurity awareness through creative products on **<a href="https://teesouvenir.com">Tee Souvenir</a>** 
 
-
 ## Objective
+
 Driven by a passion for protecting digital assets, I aim to build a career in cybersecurity with a focus on ethical hacking and vulnerability assessment. My goal is to develop robust security solutions and collaborate with industry professionals to safeguard organizations from emerging cyber threats, making a significant impact in the field.
 
 ## Skills
@@ -27,22 +27,25 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ## Tools
 
 ### Network
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### SIEM
+
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
    </div>
 
 ### Security Testing
+
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp Suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=white" />
    </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,6 +55,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 </div>
 
 ## Projects
+
 - Detection Lab
 - SOC Automation Project
 
