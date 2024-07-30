@@ -41,7 +41,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ### Security Testing
 
 <div>
-    <img src="https://img.shields.io/badge/-Burp-2B-FF0000 Suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp-2B-FF0000; Suite-000000?&style=for-the-badge&logo=Burp Suite&logoColor=white" />
    </div>
 
 ## Certifications
