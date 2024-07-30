@@ -30,7 +30,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000080?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000080?&style=for-the-badge&logo=NMAP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-135cb3?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
