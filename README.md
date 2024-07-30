@@ -10,6 +10,7 @@
 - 🤔 I’m looking for cooperation from **Cybersecurity Experts.**
 - 📝 I regularly write articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
 - 📫 How to reach me: pentester.mozaffar@gmail.com
+- 👕 Promote cybersecurity awareness through creative products on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
 
 
 ## Objective
@@ -28,12 +29,6 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
