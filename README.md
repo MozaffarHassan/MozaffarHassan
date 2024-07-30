@@ -4,11 +4,8 @@
 
 <h4 align="left">Penetration Tester | Bug Hunter | EHP Certified | SOC Certified</h4>
 
-is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozaffarHassan" alt="MozaffarHassan" /></a> </p>
-
-https://github-profile-trophy.vercel.app/?username=MozaffarHassan&no-frame=true
 
 Here are some ideas to get you started:
 
@@ -23,7 +20,7 @@ Here are some ideas to get you started:
 
 [Brief Introduction - Remove this afterwards]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
