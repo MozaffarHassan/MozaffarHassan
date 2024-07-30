@@ -29,23 +29,24 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ### Network
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000080?&style=for-the-badge&logo=NMAP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-e6d1d1?&style=for-the-badge&logo=Nessus&logoColor=e6d1d1" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nmap-000080?&style=for-the-badge&logo=NMAP&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nessus-e6d1d1?&style=for-the-badge&logo=Nessus&logoColor=e6d1d1"/>
+    <img src="https://img.shields.io/badge/-Metasploit-135cb3?&style=for-the-badge&logo=Metasploit&logoColor=white"/>
 </div>
 
 ### SIEM
 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-e6d1d1?&style=for-the-badge&logo=Splunk&logoColor=black" />
-   </div>
+</div>
 
 ### Security Testing
 
 <div>
     <img src="https://img.shields.io/badge/-Burp Suite-red?&style=for-the-badge&logo=Burp Suite&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Metasploit-135cb3?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-   </div>
+     <img src="https://img.shields.io/badge/-OWASP ZAP-135cb3?&style=for-the-badge&logo=OWASP ZAP&logoColor=white"/>
+</div>
 
 ## Certifications
 
