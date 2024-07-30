@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/mozaffar-hassan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h3 align="left">Pentester । Bug Hunter। Professional Ethical Hacker | SOC Certified</h3>
+<h4 align="left">Penetration Tester | Bug Hunter | EHP Certified | SOC Certified</h4>
 
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
