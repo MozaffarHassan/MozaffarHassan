@@ -45,7 +45,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 
 <div>
     <img src="https://img.shields.io/badge/-Burp Suite-red?&style=for-the-badge&logo=Burp Suite&logoColor=black"/>
-     <img src="https://img.shields.io/badge/-OWASP ZAP-135cb3?&style=for-the-badge&logo=OWASP ZAP&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-OWASP ZAP-135cb3?&style=for-the-badge&logo=OWASP-ZAP&logoColor=white"/>
 </div>
 
 ## Certifications
