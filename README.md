@@ -1,7 +1,5 @@
 ## Hello 👋 I'm Mozaffar Hassan   <a href="https://linkedin.com/in/mozaffar-hassan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://linkedin.com/in/mozaffar-hassan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <h4 align="left">Penetration Tester | Bug Hunter | EHP Certified | SOC Certified</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
