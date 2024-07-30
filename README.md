@@ -35,7 +35,10 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
    </div>
-
+### Security Testing
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   </div>
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -49,4 +52,12 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sakibzisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibzisan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakib-haque-zisan-818a96194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-haque-zisan-818a96194" height="30" width="40" /></a>
+<a href="https://fb.com/sakibhaquezisan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhaquezisan.1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/the tech-cher bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the tech-cher bd" height="30" width="40" /></a>
+</p>
 
