@@ -50,7 +50,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 <img src="https://img.shields.io/badge/-SOC-1d69c4?&style=for-the-badge&logo=logoColor=white" />
 <img src="https://img.shields.io/badge/-EHP-red?&style=for-the-badge&logo=logoColor=white" />
 <img src="https://img.shields.io/badge/-ICIP-4D4D4D?&style=for-the-badge&logo=OPSWAT&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEHv12-e6d1d1?&style=for-the-badge&logo=Udemy&logoColor=black" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
