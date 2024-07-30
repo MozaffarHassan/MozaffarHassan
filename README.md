@@ -35,7 +35,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 ### SIEM
 
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-white?&style=for-the-badge&logo=Splunk&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Splunk-e6d1d1?&style=for-the-badge&logo=Splunk&logoColor=black" />
    </div>
 
 ### Security Testing
