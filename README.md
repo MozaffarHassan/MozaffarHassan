@@ -34,7 +34,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
     <img src="https://img.shields.io/badge/-Metasploit-135cb3?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-e6d1d1?&style=for-the-badge&logo=Nessus&logoColor=e6d1d1" />
     <img src="https://img.shields.io/badge/-John the Ripper-black?&style=for-the-badge&logo=John the Ripper&logoColor=e6d1d1"/>
-    <img src="https://img.shields.io/badge/-OpenVAS-black?&style=for-the-badge&logo=OpenVAS&logoColor=e6d1d1"/>
+    <img src="https://img.shields.io/badge/-OpenVAS-e6d1d1?&style=for-the-badge&logo=OpenVAS&logoColor=e6d1d1"/>
 </div>
 
 ### SIEM
