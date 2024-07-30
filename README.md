@@ -16,7 +16,6 @@
 Driven by a passion for protecting digital assets, I aim to build a career in cybersecurity with a focus on ethical hacking and vulnerability assessment. My goal is to develop robust security solutions and collaborate with industry professionals to safeguard organizations from emerging cyber threats, making a significant impact in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
