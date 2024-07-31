@@ -20,6 +20,7 @@ Driven by a passion for protecting digital assets, I aim to build a career in cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network Penetration Testing                   | 
 | SIEM Implementation and Log Analysis          | 
 | Network Traffic Monitoring and Attack Detection | 
 | Incident Response Planning and Execution      | 
