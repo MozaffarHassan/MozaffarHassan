@@ -17,7 +17,7 @@
   
 ## Objective
 
-Driven by a passion for protecting digital assets, I aim to build a career in cybersecurity with a focus on ethical hacking and vulnerability assessment. My goal is to develop robust security solutions and collaborate with industry professionals to safeguard organizations from emerging cyber threats, making a significant impact in the field.
+Passionate about transforming data into insights and securing digital systems. I specialize in Data Analytics, Dashboard Development, and Cybersecurity, with hands-on experience in Power BI, Excel, SQL, Python, and Ethical Hacking. Always exploring the intersection of data intelligence and digital security through real-world projects and continuous learning.
 
 ## Skills
 
