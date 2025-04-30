@@ -10,13 +10,11 @@
 - 🛡️ I’m passionate about securing digital environments and promoting cybersecurity awareness through creative means, including my brand on **<a href="https://teesouvenir.com/cyber-monday">Tee Souvenir</a>** .
 - 👯 I’m looking to collaborate with industry professionals across Data Analytics domain.
 - 📊 I regularly engage in building interactive dashboards and visual reports to support data-driven decision-making.
-- 📝 I write insights, tutorials, and experience-based articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>**  to share knowledge with the community.
-- 📫 Feel free to connect or reach out to me at: dataanalyst.mozaffar@gmail.com
+- 📝 I write insights, tutorials, and experience-based articles on **<a href="https://medium.com/@mozaffarhassan">Medium.com.</a>**  to share knowledge with the community.
 - 🔍 Always exploring the intersection of data intelligence and digital security to make informed and safer decisions.
 - 🚀 Open to opportunities, collaborations, and networking in the Data Analytics sphere.
-- 📝 I regularly write articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
-- 📫 How to reach me: dataanalyst.mozaffar@gmail.com
-
+- 📫 Feel free to connect or reach out to me at: dataanalyst.mozaffar@gmail.com
+  
 ## Objective
 
 Driven by a passion for protecting digital assets, I aim to build a career in cybersecurity with a focus on ethical hacking and vulnerability assessment. My goal is to develop robust security solutions and collaborate with industry professionals to safeguard organizations from emerging cyber threats, making a significant impact in the field.
