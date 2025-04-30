@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Mozaffar Hassan   <a href="https://linkedin.com/in/mozaffar-hassan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h4 align="left">Penetration Tester | Bug Hunter | EHP Certified | SOC Certified</h4>
+<h4 align="left">Data Analyst | Business Intelligence & Data Visualization | Ethical Hacking & Penetration Testing | EHP Certified | SOC Certified</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozaffarHassan" alt="MozaffarHassan" /></a> </p>
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with **Industry Professionals.**
 - 🤔 I’m looking for cooperation from **Cybersecurity Experts.**
 - 📝 I regularly write articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
-- 📫 How to reach me: pentester.mozaffar@gmail.com
+- 📫 How to reach me: dataanalyst.mozaffar@gmail.com
 - 👕 Promote cybersecurity awareness through creative products on **<a href="https://teesouvenir.com/cyber-monday">Tee Souvenir</a>** 
 
 ## Objective
