@@ -5,12 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaffar-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="mozaffar-hassan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MozaffarHassan" alt="MozaffarHassan" /></a> </p>
 
-- 🌱 I’m currently learning on **Cybersecurity and try to develop thyself.**
-- 👯 I’m looking to collaborate with **Industry Professionals.**
-- 🤔 I’m looking for cooperation from **Cybersecurity Experts.**
+- 🌱 I’m currently enhancing my skills in Data Analysis, Business Intelligence, and Data Visualization, while continuing to grow in Ethical Hacking and Web Penetration Testing.
+- 👨‍💻 I bring hands-on experience with tools like Power BI, Tableau, Excel, Python (Pandas, Matplotlib, Seaborn), and SQL for turning data into actionable insights.
+- 🛡️ I’m passionate about securing digital environments and promoting cybersecurity awareness through creative means, including my brand on **<a href="https://teesouvenir.com/cyber-monday">Tee Souvenir</a>** .
+- 👯 I’m looking to collaborate with industry professionals across Data Analytics domain.
+- 📊 I regularly engage in building interactive dashboards and visual reports to support data-driven decision-making.
+- 📝 I write insights, tutorials, and experience-based articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>**  to share knowledge with the community.
+- 📫 Feel free to connect or reach out to me at: dataanalyst.mozaffar@gmail.com
+- 🔍 Always exploring the intersection of data intelligence and digital security to make informed and safer decisions.
+- 🚀 Open to opportunities, collaborations, and networking in the Data Analytics sphere.
 - 📝 I regularly write articles on **<a href="https://medium.com/@pentester.mozaffarhassan">Medium.com.</a>** 
 - 📫 How to reach me: dataanalyst.mozaffar@gmail.com
-- 👕 Promote cybersecurity awareness through creative products on **<a href="https://teesouvenir.com/cyber-monday">Tee Souvenir</a>** 
 
 ## Objective
 
